@@ -1,14 +1,11 @@
 import React from 'react';
-
-import 'bootstrap/dist/css/bootstrap.min.css'
+// import "../style/Login.scss";
 
 function Login() {
     return (
-        <>
-      
-      
-      hi
-        </>
+        <div className='body'>
+            <h1>test</h1>
+        </div>
     )
 }
 
